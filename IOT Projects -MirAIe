@@ -1,1 +1,4 @@
-
+Tested IOT Projects which contains below Products 
+a. Smart AC- This product can be control from Application using MQTT Protocol 
+b. Refrigerator 
+c. Washing Machine - User can set start , schedule Wash program , User can search stain and Application can predict pretreatement and supported wash program accordiing to cloth and stain type
