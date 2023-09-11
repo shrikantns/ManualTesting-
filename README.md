@@ -1,1 +1,1 @@
-# ManualTesting-MirAIe IOT Project
+# ManualTesting MirAIe IOT Project
